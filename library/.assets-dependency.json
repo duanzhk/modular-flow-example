@@ -1,0 +1,39 @@
+{
+  "uuid": {
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/hdcSky.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/soldier.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ]
+  },
+  "path": {
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/soldier.FBX@f3caa": [
+      "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/soldier.png"
+    ],
+    "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/dzk/Documents/git-projects/example-mflow/assets/model/helloWorld/grass/grass.png"
+    ]
+  }
+}

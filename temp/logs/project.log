@@ -1,0 +1,51 @@
+7-29-2025 14:45:29 - log: Load engine in /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine
+7-29-2025 14:45:29 - log: Register native engine in /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+7-29-2025 14:45:30 - log: Request namespace: device-list
+7-29-2025 14:45:35 - info: [PreviewInEditor] 预览环境初始化完毕
+7-29-2025 14:45:36 - log: [Scene] meshopt wasm decoder initialized
+7-29-2025 14:45:36 - log: [Scene] [bullet]:bullet wasm lib loaded.
+7-29-2025 14:45:36 - log: [Scene] [box2d]:box2d wasm lib loaded.
+7-29-2025 14:45:37 - log: [Scene] [PHYSICS]: using builtin.
+7-29-2025 14:45:37 - log: [Scene] Cocos Creator v3.8.3
+7-29-2025 14:45:37 - info: [Scene] Forward render pipeline initialized.
+7-29-2025 14:45:37 - log: [Scene] [PHYSICS]: switch from builtin to bullet.
+7-29-2025 14:45:37 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+7-29-2025 15:01:29 - log: [PreviewInEditor] meshopt wasm decoder initialized
+7-29-2025 15:01:29 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+7-29-2025 15:01:29 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+7-29-2025 15:01:29 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+7-29-2025 15:01:30 - log: [PreviewInEditor] Cocos Creator v3.8.3
+7-29-2025 15:01:30 - info: [PreviewInEditor] Forward render pipeline initialized.
+7-29-2025 15:01:30 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+7-29-2025 15:01:30 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+7-29-2025 15:05:07 - info: [PreviewInEditor] 预览环境初始化完毕
+7-29-2025 15:14:33 - log: [PreviewInEditor] meshopt wasm decoder initialized
+7-29-2025 15:14:33 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+7-29-2025 15:14:33 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+7-29-2025 15:14:33 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+7-29-2025 15:14:33 - log: [PreviewInEditor] Cocos Creator v3.8.3
+7-29-2025 15:14:33 - info: [PreviewInEditor] Forward render pipeline initialized.
+7-29-2025 15:14:34 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+7-29-2025 15:14:34 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+7-29-2025 15:14:38 - info: [PreviewInEditor] 预览环境初始化完毕
+7-29-2025 15:14:52 - log: [PreviewInEditor] meshopt wasm decoder initialized
+7-29-2025 15:14:52 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+7-29-2025 15:14:52 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+7-29-2025 15:14:52 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+7-29-2025 15:14:52 - log: [PreviewInEditor] Cocos Creator v3.8.3
+7-29-2025 15:14:52 - info: [PreviewInEditor] Forward render pipeline initialized.
+7-29-2025 15:14:53 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+7-29-2025 15:14:53 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+7-29-2025 15:14:56 - info: [PreviewInEditor] 预览环境初始化完毕
+7-29-2025 15:15:15 - log: [PreviewInEditor] meshopt wasm decoder initialized
+7-29-2025 15:15:15 - log: [PreviewInEditor] [box2d]:box2d wasm lib loaded.
+7-29-2025 15:15:15 - log: [PreviewInEditor] [bullet]:bullet wasm lib loaded.
+7-29-2025 15:15:15 - log: [PreviewInEditor] [PHYSICS]: using builtin.
+7-29-2025 15:15:16 - log: [PreviewInEditor] Cocos Creator v3.8.3
+7-29-2025 15:15:16 - info: [PreviewInEditor] Forward render pipeline initialized.
+7-29-2025 15:15:16 - log: [PreviewInEditor] [PHYSICS]: switch from builtin to bullet.
+7-29-2025 15:15:16 - log: [PreviewInEditor] [PHYSICS2D]: switch from box2d-wasm to box2d.
+7-29-2025 15:16:26 - info: [PreviewInEditor] 预览环境初始化完毕
+7-29-2025 15:18:45 - error: [Window] Cannot read property 'render' of nullTypeError: Cannot read property 'render' of null
+    at renderImmediately (/Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/editor-extensions/extensions/assets/dist/components/tree-data.ccc:1:6245)
+    at /Applications/Cocos/Creator/3.8.3/CocosCreator.app/Contents/Resources/app.asar/modules/editor-extensions/extensions/assets/dist/components/tree-data.ccc:1:5950

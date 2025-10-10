@@ -1,0 +1,12 @@
+{
+  "name": "example-mflow",
+  "uuid": "6fa32b6d-f945-4423-b3d7-9bc5a254525c",
+  "version": "3.0.0",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "dzkcc-mflow": "^0.0.1-beta.12"
+  }
+}

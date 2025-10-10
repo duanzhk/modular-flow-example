@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M1",
+        "version": "Darwin Kernel Version 24.5.0: Tue Apr 22 19:48:46 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8103"
+    },
+    "sceneListMap": {
+        "ca3006e1-285d-48f5-80fd-673630275545": "/Users/dzk/Documents/git-projects/example-mflow/assets/scene/test.scene"
+    },
+    "deviceMd5": "7d1b5bacae49033529b042aed225aa6d"
+}
