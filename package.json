@@ -7,6 +7,6 @@
     "version": "3.8.3"
   },
   "dependencies": {
-    "dzkcc-mflow": "^0.0.1-beta.12"
+    "dzkcc-mflow": "^0.0.1"
   }
 }
