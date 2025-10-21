@@ -20,8 +20,20 @@
     "contributions": {
         "assets": {
             "menu": {
-                "methods": "./dist/hierarchy-menu.js",
-                "assetMenu": "onHierarchyMenu"
+                "methods": "./dist/generate-base-ui.js",
+                "assetMenu": "onGenerateBaseUI"
+            }
+        },
+        "menu": [
+            {
+                "path": "mflow-tools",
+                "label": "i18n:mflow-tools.generate-mapping",
+                "message": "generate-api-type-hints"
+            }
+        ],
+        "messages": {
+            "generate-api-type-hints": {
+                "methods": ["onGenerateApiHints"]
             }
         }
     }
